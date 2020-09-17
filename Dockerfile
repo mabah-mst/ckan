@@ -41,7 +41,7 @@ ARG CKAN_SITE_URL
 RUN useradd -r -u 900 -m -c "ckan account" -d $CKAN_HOME -s /bin/false ckan
 
 # Setup virtual environment for CKAN
-RUN mkdir -p $CKAN_VENV $CKAN_CONFIG $CKAN_STORAGE_PATH && \
+RUN mkdir -p $CKAN_VENV $CKAN_CONFIG $CKAN_STORAGE_PATH $CKAN_STORAGE_PATH/resources && \
     virtualenv $CKAN_VENV && \
     ln -s $CKAN_VENV/bin/pip /usr/local/bin/ckan-pip &&\
     ln -s $CKAN_VENV/bin/paster /usr/local/bin/ckan-paster &&\
