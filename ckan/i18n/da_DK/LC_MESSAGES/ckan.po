@@ -4220,8 +4220,8 @@ msgstr "Ingen grupper fundet for \"{query}\""
 #: ckan/templates/snippets/search_result_text.html:23
 msgid "{number} group found"
 msgid_plural "{number} groups found"
-msgstr[0] "{number} gruppe fundet"
-msgstr[1] "{number} grupper fundet"
+msgstr[0] "{number} miljøtema fundet"
+msgstr[1] "{number} miljøtemaer fundet"
 
 #: ckan/templates/snippets/search_result_text.html:24
 msgid "No groups found"
