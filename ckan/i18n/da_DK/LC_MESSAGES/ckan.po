@@ -2929,7 +2929,7 @@ msgstr "Tilføj gruppe"
 
 #: ckan/templates/group/index.html:20
 msgid "Search groups..."
-msgstr "Søg grupper..."
+msgstr "Søg miljøtemaer..."
 
 #: ckan/templates/group/index.html:29
 msgid "There are currently no groups for this site"
