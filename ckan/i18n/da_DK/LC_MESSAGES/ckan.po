@@ -677,11 +677,11 @@ msgstr "Ingen miljøtemaer"
 #: ckanext/stats/templates/ckanext/stats/index.html:61
 #: ckanext/stats/templates/ckanext/stats/index.html:110
 msgid "Top Tags"
-msgstr "Top tags"
+msgstr "Top opgavetyper"
 
 #: ckanext/stats/templates/ckanext/stats/index.html:65
 msgid "Tag Name"
-msgstr "Tag-navn"
+msgstr "Opgavetype navn"
 
 #: ckanext/stats/templates/ckanext/stats/index.html:66
 #: ckanext/stats/templates/ckanext/stats/index.html:86
@@ -959,7 +959,7 @@ msgstr "Miljøtemaer"
 #: ckan/templates/tag/index.html:12 ckan/views/dataset.py:286
 #: ckan/views/group.py:306 ckan/views/home.py:51
 msgid "Tags"
-msgstr "Tags"
+msgstr "Opgavetyper"
 
 #: ckan/controllers/group.py:320 ckan/controllers/home.py:64
 #: ckan/controllers/package.py:259 ckan/lib/helpers.py:1252
@@ -1679,22 +1679,22 @@ msgstr "Miljøtemanavnet findes allerede i databasen"
 #: ckan/logic/validators.py:440
 #, python-format
 msgid "Tag \"%s\" length is less than minimum %s"
-msgstr "Længden på tag \"%s\" er kortere end minimum %s"
+msgstr "Længden på opgavetypen \"%s\" er kortere end minimum %s"
 
 #: ckan/logic/validators.py:444
 #, python-format
 msgid "Tag \"%s\" length is more than maximum %i"
-msgstr "Længden på tagget \"%s\" er mere end maksimalt %i"
+msgstr "Længden på opgavetypen \"%s\" er mere end maksimalt %i"
 
 #: ckan/logic/validators.py:452
 #, python-format
 msgid "Tag \"%s\" must be alphanumeric characters or symbols: -_."
-msgstr "Tagget \"%s\" må kun angives med alfanumeriske tegn og symbolerne: -_."
+msgstr "Opgavetypen \"%s\" må kun angives med alfanumeriske tegn og symbolerne: -_."
 
 #: ckan/logic/validators.py:460
 #, python-format
 msgid "Tag \"%s\" must not be uppercase"
-msgstr "Tagget \"%s\" kan ikke skrives med store bogstaver"
+msgstr "Opgavetypen \"%s\" kan ikke skrives med store bogstaver"
 
 #: ckan/logic/validators.py:568
 msgid "User names must be strings"
@@ -1757,7 +1757,7 @@ msgstr "Tag %s tilhører ikke vokabulariet %s"
 
 #: ckan/logic/validators.py:690
 msgid "No tag name"
-msgstr "Intet tag-navn"
+msgstr "Intet opgavetype-navn"
 
 #: ckan/logic/validators.py:703
 #, python-format
@@ -1921,7 +1921,7 @@ msgstr "Kan ikke finde vokabularium \"%s\""
 #: ckan/logic/action/delete.py:669
 #, python-format
 msgid "Could not find tag \"%s\""
-msgstr "Kan ikke finde tagget \"%s\""
+msgstr "Kan ikke finde opgavetypen \"%s\""
 
 #: ckan/logic/action/delete.py:682 ckan/logic/action/delete.py:686
 msgid "You must be logged in to unfollow something."
@@ -3190,7 +3190,7 @@ msgstr ""
 
 #: ckan/templates/home/snippets/search.html:16
 msgid "Popular tags"
-msgstr ""
+msgstr "Populære opgavetyper"
 
 #: ckan/templates/home/snippets/stats.html:5
 msgid "{0} statistics"
@@ -4268,7 +4268,7 @@ msgstr "RSS"
 
 #: ckan/templates/snippets/activities/added_tag.html:4
 msgid "{actor} added the tag {tag} to the dataset {dataset}"
-msgstr "{actor} føjede tagget {tag} til datasættet {dataset}"
+msgstr "{actor} føjede opgavetypen {tag} til datasættet {dataset}"
 
 #: ckan/templates/snippets/activities/changed_group.html:4
 msgid "{actor} updated the group {group}"
@@ -4349,7 +4349,7 @@ msgstr "{actor} registreret"
 
 #: ckan/templates/snippets/activities/removed_tag.html:4
 msgid "{actor} removed the tag {tag} from the dataset {dataset}"
-msgstr "{actor} fjernede tagget {tag} fra datasættet {dataset}"
+msgstr "{actor} fjernede opgavetypen {tag} fra datasættet {dataset}"
 
 #: ckan/templates/snippets/changes/author.html:5
 msgid "Set author of {pkg_link} to {new_author} (previously {old_author})"
@@ -4616,24 +4616,24 @@ msgstr ""
 
 #: ckan/templates/snippets/changes/tags.html:5
 msgid "Removed tag {tag_link} from {pkg_link}"
-msgstr ""
+msgstr "Fjernede opgavetypen {tag_link} fra {pkg_link}"
 
 #: ckan/templates/snippets/changes/tags.html:20
 msgid "Removed the following tags from {pkg_link}"
-msgstr ""
+msgstr "Fjernede følgende opgavetyper fra {pkg_link}"
 
 #: ckan/templates/snippets/changes/tags.html:31
 #: ckan/templates/snippets/changes/tags.html:70
 msgid "{tag_link}"
-msgstr ""
+msgstr "{tag_link}"
 
 #: ckan/templates/snippets/changes/tags.html:44
 msgid "Added tag {tag_link} to {pkg_link}"
-msgstr ""
+msgstr "Tilføjede opgavetypen {tag_link} til {pkg_link}"
 
 #: ckan/templates/snippets/changes/tags.html:59
 msgid "Added the following tags to {pkg_link}"
-msgstr ""
+msgstr "Tilføjede følgende opgavetyper til {pkg_link}"
 
 #: ckan/templates/snippets/changes/title.html:3
 msgid "Changed title to {title_link} (previously {old_title})"
@@ -4667,7 +4667,7 @@ msgstr ""
 
 #: ckan/templates/tag/index.html:33 ckan/templates/tag/index.html:34
 msgid "Search Tags"
-msgstr "Søg tags"
+msgstr "Søg opgavetyper"
 
 #: ckan/templates/user/api_tokens.html:19
 msgid "Create API Token"
