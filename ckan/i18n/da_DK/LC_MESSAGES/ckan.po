@@ -948,7 +948,7 @@ msgstr "Organisationer"
 #: ckan/tests/config/test_middleware.py:120 ckan/views/dataset.py:285
 #: ckan/views/group.py:305 ckan/views/home.py:50
 msgid "Groups"
-msgstr "Grupper"
+msgstr "Miljøtemaer"
 
 #: ckan/controllers/group.py:319 ckan/controllers/home.py:63
 #: ckan/controllers/package.py:258 ckan/lib/helpers.py:1251
