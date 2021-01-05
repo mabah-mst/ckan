@@ -2528,7 +2528,7 @@ msgstr "Fejl %(error_code)s"
 
 #: ckan/templates/footer.html:9
 msgid "About {0}"
-msgstr "Om Miljøstyrelsens Datakatalog"
+msgstr "Om {0}"
 
 #: ckan/templates/footer.html:15
 msgid "CKAN API"
