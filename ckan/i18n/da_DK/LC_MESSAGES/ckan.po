@@ -810,7 +810,7 @@ msgstr "Sitets tag-logo"
 #: ckan/templates/organization/read_base.html:19
 #: ckan/templates/user/edit_user_form.html:14
 msgid "About"
-msgstr "Om"
+msgstr "Om Miljøstyrelsens Datakatalog"
 
 #: ckan/controllers/admin.py:54 ckan/templates/admin/config.html:25
 msgid "About page text"
@@ -2528,7 +2528,7 @@ msgstr "Fejl %(error_code)s"
 
 #: ckan/templates/footer.html:9
 msgid "About {0}"
-msgstr "Om {0}"
+msgstr "Om Miljøstyrelsens Datakatalog"
 
 #: ckan/templates/footer.html:15
 msgid "CKAN API"
@@ -2612,7 +2612,7 @@ msgstr "Søg"
 
 #: ckan/templates/header.html:100 ckan/templates/home/snippets/search.html:8
 msgid "Search datasets"
-msgstr ""
+msgstr "Søg datasæt"
 
 #: ckan/templates/header.html:101 ckan/templates/snippets/search_form.html:16
 msgid "Submit"
@@ -2910,7 +2910,7 @@ msgstr "Er du sikker på, at du vil slette medlemmet - {name}?"
 #: ckan/templates/user/edit.html:8 ckan/templates/user/edit_base.html:3
 #: ckan/templates/user/read_base.html:14
 msgid "Manage"
-msgstr "Administrer"
+msgstr "Redigér"
 
 #: ckan/templates/group/edit.html:12
 msgid "Edit Group"
