@@ -3516,7 +3516,7 @@ msgstr "Opdatér datasæt"
 
 #: ckan/templates/package/new_resource.html:5
 msgid "Add data to the dataset"
-msgstr "Tilføj data til datasættet"
+msgstr "Tilføj ressource til datasættet"
 
 #: ckan/templates/package/new_resource.html:11
 #: ckan/templates/package/new_resource_not_draft.html:8
@@ -3921,7 +3921,7 @@ msgstr "Er du sikker på, at du vil slette dette datasæt?"
 
 #: ckan/templates/package/snippets/package_form.html:43
 msgid "Next: Add Data"
-msgstr "Næste: Tilføj data"
+msgstr "Næste: Tilføj ressource"
 
 #: ckan/templates/package/snippets/package_metadata_fields.html:6
 msgid "http://example.com/dataset.json"
@@ -4075,7 +4075,7 @@ msgstr ""
 
 #: ckan/templates/package/snippets/resources_list.html:14
 msgid "Data and Resources"
-msgstr "Data og ressourcer"
+msgstr "Ressourcer"
 
 #: ckan/templates/package/snippets/resources_list.html:31
 msgid "This dataset has no data"
@@ -4090,7 +4090,7 @@ msgstr "Opret datasæt"
 #: ckan/templates/package/snippets/stages.html:34
 #: ckan/templates/package/snippets/stages.html:36
 msgid "Add data"
-msgstr "Tilføj data"
+msgstr "Tilføj ressource"
 
 #: ckan/templates/package/snippets/view_form.html:8
 msgid "eg. My View"
