@@ -965,7 +965,7 @@ msgstr "Opgavetyper"
 #: ckan/controllers/package.py:259 ckan/lib/helpers.py:1252
 #: ckan/views/dataset.py:287 ckan/views/group.py:307 ckan/views/home.py:52
 msgid "Formats"
-msgstr "Datasættyper"
+msgstr "Ressourcetyper"
 
 #: ckan/controllers/group.py:321 ckan/controllers/home.py:65
 #: ckan/controllers/package.py:260 ckan/lib/helpers.py:1253
